@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, Power BI, Apache Spark, Apache Kafka, Tableau.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayansingha190402](https://github.com/ayansingha190402)
+- 👨‍💻 All of my projects are available at [https://github.com/er-ayan-singha](https://github.com/er-ayan-singha)
 
 - 💬 Ask me about **Python, MySql, Power BI, Data Mining.**
 
